@@ -68,7 +68,7 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 
 
 ## Getting Started
-1. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Predictions`
+1. Navigate to the project directory: 
 2. Explore the Jupyter notebooks for detailed steps and code execution.
 3. Check out the Power BI dashboard for interactive visualizations.
 4. Read the published article for a comprehensive understanding of the project.
