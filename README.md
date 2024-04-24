@@ -63,5 +63,25 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 **Null Hypothesis (Ho):** Customers with higher monthly charges are more likely to churn due to cost considerations.
 **Alternative Hypothesis (Ha):** Customers with higher monthly charges are less likely to churn due to cost considerations.
 
+## Recommendations
+
+
+
+## Getting Started
+1. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Predictions`
+2. Explore the Jupyter notebooks for detailed steps and code execution.
+3. Check out the Power BI dashboard for interactive visualizations.
+4. Read the published article for a comprehensive understanding of the project.
+
+## License
+
+This project is licensed under the [MIT License]().
+
+## Author
+
+Brian Kimagut
+
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kimagut/)
+
 
 
