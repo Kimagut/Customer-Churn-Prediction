@@ -13,7 +13,14 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 - Jupyter notebook
 - SQL
 
-
+## Project Highlights
+- Employed the CRISP-DM framework for in-depth analysis of customer churn within the Vodafone network service.
+- Performed exploratory data analysis to reveal underlying insights and trends present in the dataset.
+- Constructed predictive models utilizing machine learning techniques such as the Random Forest Classifier, XGBoost.
+- Utilized hyperparameter tuning to enhance the performance of the models.
+- Created an interactive Power BI dashboard for visually representing the key discoveries.
+- Authored an enlightening article outlining the project methodology and its outcomes.
+  
 ## Columns in our dataset
 | Feature            | Description                                                                                                      |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -37,4 +44,44 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 | MonthlyCharges   | The amount charged to the customer monthly                                                                       |
 | TotalCharges     | The total amount charged to the customer                                                                         |
 | Churn            | Whether the customer churned or not (Yes or No)                                                                  |
+
+## Summary
+
+| Code | Name                                     |             Published Article             |                                                                                                                                                          Deployed Dashboard |
+| ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| LP 2 | Customer Churn Classification Prediction | [Read Article](https://medium.com/@briankimagut/customer-churn-prediction-d8c873601b20) | [View Dashboard](https://app.powerbi.com/groups/me/reports/90159ab0-92c6-45bf-8d18-dd9f5c28ad94/ReportSection?experience=power-bi) |
+
+## Hypothesis 
+
+### Hypothesis 1: Tenure and Churn
+
+**Null Hypothesis (H0)** :Customers with longer tenure, indicating a longer duration of staying with the company, are more likely to churn compared to new customers.
+**Alternate Hypothesis (H1)** : Customers with longer tenure are less likely to churn compared to new customers.
+
+### Hypothesis 2: Monthly Charges and Churn
+
+**Null Hypothesis (Ho):** Customers with higher monthly charges are more likely to churn due to cost considerations.
+**Alternative Hypothesis (Ha):** Customers with higher monthly charges are less likely to churn due to cost considerations.
+
+## Recommendations
+
+
+
+## Getting Started
+1. Navigate to the project directory: 
+2. Explore the Jupyter notebooks for detailed steps and code execution.
+3. Check out the Power BI dashboard for interactive visualizations.
+4. Read the published article for a comprehensive understanding of the project.
+
+## License
+
+This project is licensed under the [MIT License]().
+
+## Author
+
+Brian Kimagut
+
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kimagut/)
+
+
 
